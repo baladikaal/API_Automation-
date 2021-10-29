@@ -3,7 +3,7 @@
 Testing API Automation
 
 
-## Teknologi yang digunakan
+## Persiapan
 
 - Node.js dan NPM
 - Babel (ES6+)
@@ -21,30 +21,20 @@ Testing API Automation
 
 
 
-## Installing
+## How To Install
 
 - Install Node.Js dan Npm
 
-- Open command prompt on the api-automation-exercise parent folder and write this code:
+- Buka Commad Promt dan ketikkan perintah dibawah,jika berhasil akan menampilkan pesan versi yang di gunakan:
 
-  `npm init -y`
-
+  `C:\Users\balal>node -v`
+  `v16.13.0`
+  
+- Selanjutnya ketikkan perintah di bawah untuk periapan library yang akan di gunakan
+  
+  `npm init` atau secara default `npm init -y`
   `npm i --save-dev supertest mocha @babel/cli @babel/core @babel/node @babel/register @babel/preset-env`
 
-- Open or import the project to Visual Studio Code 1.61 or above
-
-- Create new terminal and write this code to execute:
+- Jika semua persiapan sudah selesai, maka jalankan program dengan perintah dibawah
 
   `npm test`
-
-
-
-## Download
-
-** Node.js
-
-https://nodejs.org/en/download/
-
-** Visual Studio Code
-
-https://code.visualstudio.com/download
