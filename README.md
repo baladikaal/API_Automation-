@@ -10,6 +10,7 @@ Testing API Automation
 - SuperTest
 - Mocha
 - Chai
+- Postman ( option )
 
 
 
