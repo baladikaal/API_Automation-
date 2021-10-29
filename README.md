@@ -40,3 +40,13 @@ Testing API Automation
 - Jika semua persiapan sudah selesai, maka jalankan program dengan perintah dibawah
 
   `npm test`
+
+## Testing dengan Postman
+
+- Case A
+
+<img src="https://user-images.githubusercontent.com/74690318/139427770-ebf7f999-154d-4948-9f7d-3921d44f1721.png" width="500">
+
+-Case B
+
+<img src="https://user-images.githubusercontent.com/74690318/139428079-206b2fe5-3987-4f98-8022-d3214d5d505e.png" width="500">
