@@ -28,11 +28,13 @@ Testing API Automation
 - Buka Commad Promt dan ketikkan perintah dibawah,jika berhasil akan menampilkan pesan versi yang di gunakan:
 
   `C:\Users\balal>node -v`
+  
   `v16.13.0`
   
 - Selanjutnya ketikkan perintah di bawah untuk periapan library yang akan di gunakan
   
-  `npm init` atau secara default `npm init -y`
+  `npm init -y` atau secara default `npm init -y`
+  
   `npm i --save-dev supertest mocha @babel/cli @babel/core @babel/node @babel/register @babel/preset-env`
 
 - Jika semua persiapan sudah selesai, maka jalankan program dengan perintah dibawah
