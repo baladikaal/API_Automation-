@@ -32,7 +32,7 @@ Testing API Automation
   
   `v16.13.0`
   
-- Selanjutnya ketikkan perintah di bawah untuk periapan library yang akan di gunakan
+- Selanjutnya ketikkan perintah di bawah untuk persiapan library yang akan di gunakan
   
   `npm init -y` atau secara default `npm init -y`
   
